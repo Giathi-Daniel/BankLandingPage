@@ -41,4 +41,4 @@ This is website is also responsive in different screen sizes.
 
 ![users page](./images/respon1.png)
 
-![users page](./images/respon2.png)
+![users page](./bank_application/images/respon2.png)

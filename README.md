@@ -11,7 +11,7 @@ This is a banking system that does the following tasks:
 ## Home page
 This is the [Home.html](./home.html). This page contains a table with a list of accounts with their properties.
 
-![home page](bank_application\images\home.png)
+![home page](/home.png)
 
 ## Login page
 This is the [Login.html](./login.html). This page contains a form that enables users to log into the system and access their accounts.
